@@ -1,6 +1,7 @@
 # Smart-Bus
 
 Developed in Arduino environment. The smart bus has the following features -
+
     * **Facial Recognition System**- A system that starts the motor only after recognizing the designated driver
     * **Alcohol detection**- A system that stops the motor in case of excess amount of alcohol is detected. 
     * **Unoccupied Seat Count**- Total number of unoccupied seats will be visible in front of the door 
